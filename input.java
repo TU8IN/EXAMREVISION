@@ -23,7 +23,7 @@ System.out.print("Hello " + temp);
 
 
 
-//declare array
+// //declare array
 
-int[] intArray[]
-intArray = {1,2,3,4,5,6}
+// int[] intArray[]
+// intArray = {1,2,3,4,5,6}
