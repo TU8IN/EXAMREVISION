@@ -2,8 +2,10 @@ import java.util.Scanner;
 
 public class Input
 
-public static void main (Strings[]args)
-system.out.printLn(What is ur name)
+public static void main (String[]args)
+system.out.print("What is ur name")
+name = keyboard.nextline();
+
 
 scanner scan =kdb scanner
 
