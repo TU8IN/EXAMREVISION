@@ -1,10 +1,10 @@
-public class Coffee {
+public class 2023 {
 
     private string name;
     private int strength;
     private string origin;
 
-    public class(string name,int strength,string origin)
+    public 2023(string name,int strength,string origin){
     this.name =name
     this.strength = strrgnth
     this.origin = origin
