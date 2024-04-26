@@ -1,27 +1,32 @@
 public class 2023 {
-
-    private string name;
+    private String name;
     private int strength;
-    private string origin;
+    private String origin;
 
-    public 2023(string name,int strength,string origin){
-    this.name =name
-    this.strength = strrgnth
-    this.origin = origin
-    }
-    public void getname()
-    return name
-
-    public void getstrngth()
-    return strength
-
-    public void origin()
-    return origin
-
-
-    public static void main(String[] args) {
-        system.out,println(tostring)
+    public 2023(String name, int strength, String origin) {
+        this.name = name;
+        this.strength = strength;
+        this.origin = origin;
     }
 
-    public tostring()
-    return string 
+    public String getName() {
+        return name;
+    }
+
+    public int getStrength() {
+        return strength;
+    }
+
+    public String getOrigin() {
+        return origin;
+    }
+
+    @Override
+    public String toString() {
+        return "2023{" +
+                "name='" + name + '\'' +
+                ", strength=" + strength +
+                ", origin='" + origin + '\'' +
+                '}';
+    }
+}
