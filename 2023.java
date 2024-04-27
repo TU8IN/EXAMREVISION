@@ -30,3 +30,9 @@ public class 2023 {
                 '}';
     }
 }
+
+// Setter for strength
+    //public void setStrength(int strength) {
+     //   this.strength = strength;
+    //}
+
