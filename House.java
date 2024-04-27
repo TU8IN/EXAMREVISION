@@ -22,6 +22,8 @@ public class House {
     }
 
     //b
-    
+    public static double calculateValue()
+    return buildYear * 100;
+    sum double[] * 1000
 
 }
